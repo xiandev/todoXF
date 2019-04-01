@@ -1,0 +1,14 @@
+G:\Projects\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.deps.json
+G:\Projects\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.dll
+G:\Projects\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.pdb
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.csprojAssemblyReference.cache
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.csproj.CoreCompileInputs.cache
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.AssemblyInfoInputs.cache
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.AssemblyInfo.cs
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.dll
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.pdb
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\Views\ItemView.xaml.g.cs
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.csproj.Fody.CopyLocal.cache
+G:\Projects\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\XamlC.stamp
